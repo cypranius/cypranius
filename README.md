@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm cypranius
 
-<!--
-**cypranius/cypranius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build security projects that interest me and share what I learn along the way.
 
-Here are some ideas to get you started:
+## 🔧 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ **Active Directory Lab** - Building an enterprise identity system with tiered user access and Group Policy restrictions
+- 🍯 **Honeypot System** - Closed-network deception technology to observe and analyze attacker behavior
+- 📦 **Docker Browser Sandbox** - Isolated environment for secure browsing and testing
+
+## ✅ Certifications
+
+- 🏆 ISC2 Certified in Cybersecurity (CC)
+- 🏆 Google Cybersecurity Professional Certificate
+- 🏆 TryHackMe (Various rooms completed)
+- 📝 CompTIA Security+ (In Progress)
+
+## 🛠️ Tools & Technologies
+
+- **Virtualization:** VirtualBox, Docker
+- **Security:** Wireshark, Splunk, BloodHound
+- **Scripting:** Python, PowerShell, Bash
+- **Learning:** TryHackMe, HackTheBox
+
+## 📫 Connect With Me
+
+- [TryHackMe](https://tryhackme.com/p/cypranius)
+- [LinkedIn](https://www.linkedin.com/in/ryan-d-cruz-394baa274/)
