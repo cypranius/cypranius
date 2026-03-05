@@ -12,7 +12,11 @@ I build security projects that interest me and share what I learn along the way.
 
 - 🏆 ISC2 Certified in Cybersecurity (CC)
 - 🏆 Google Cybersecurity Professional Certificate
-- 🏆 TryHackMe (Various rooms completed)
+- 🏆 **TryHackMe Learning Paths:**
+  - Security Engineer
+  - SOC Level 1  
+  - Web Fundamentals
+  - Complete Beginner
 - 📝 CompTIA Security+ (In Progress)
 
 ## 🛠️ Tools & Technologies
