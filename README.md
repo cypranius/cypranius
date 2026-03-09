@@ -22,9 +22,9 @@ I build security projects that interest me and share what I learn along the way.
 ## 🛠️ Tools & Technologies
 
 - **Virtualization:** VirtualBox, Docker
-- **Security:** Wireshark, Splunk, BloodHound
+- **Security:** Wireshark, Splunk
 - **Scripting:** Python, PowerShell, Bash
-- **Learning:** TryHackMe, HackTheBox
+- **Learning:** TryHackMe
 
 ## 📫 Connect With Me
 
