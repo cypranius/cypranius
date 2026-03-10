@@ -6,7 +6,7 @@ I build security projects that interest me and share what I learn along the way.
 
 - 🏗️ **Active Directory Lab** - Building an enterprise identity system with tiered user access and Group Policy restrictions
 - 🍯 **Honeypot System** - Closed-network deception technology to observe and analyze attacker behavior
-- 📦 **Docker Browser Sandbox** - Isolated environment for secure browsing and testing
+- 📦 [Docker Browser Sandbox](https://github.com/cypranius/Firefox-Container) - Isolated environment for secure browsing and testing
 
 ## ✅ Certifications
 
