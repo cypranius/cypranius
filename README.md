@@ -6,7 +6,7 @@ I build security projects that interest me and share what I learn along the way.
 
 - 🏗️ **Active Directory Lab** - Building an enterprise identity system with tiered user access and Group Policy restrictions
 - 🖥️ [Kali Linux VM](https://github.com/cypranius/KaliVM) - Step-by-step guide to setting up a Kali Linux VM in VirtualBox for cybersecurity labs
-- 🍯 **Honeypot System** - Closed-network deception technology to observe and analyze attacker behavior
+- 🍯 **Honeypot Lab** - Closed-network deception technology to observe and analyze attacker behavior
 - 📦 [Docker Browser Sandbox](https://github.com/cypranius/Firefox-Container) - Isolated environment for secure browsing and testing
 
 ## ✅ Certifications
